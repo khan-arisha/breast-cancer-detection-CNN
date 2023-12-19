@@ -17,6 +17,8 @@ Empowering Healthcare Professionals.
 
 # Data
 
+Dataset: https://www.kaggle.com/datasets/paultimothymooney/breast-histopathology-images
+
 We have 280 patients and roughly 280000 images. 
 
 For each patient, we have an individual subfolder that contains image patches (patches of tissue slices).
